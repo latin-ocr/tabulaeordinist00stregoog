@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tabulaeordinist00stregoog_0508.png"; bbox 0 0 3892 5609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1079 3669 1274 3792">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1079 3669 1274 3792">
+     <span class='ocr_line' id='line_1_1' title="bbox 1079 3669 1274 3792; baseline -0.036 0"><span class='ocrx_word' id='word_1_1' title='bbox 1079 3669 1274 3792; x_wconf 58' lang='lat' dir='ltr'>joy</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1462 2231 2801 2314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1462 2231 2801 2314">
+     <span class='ocr_line' id='line_1_2' title="bbox 1462 2231 2801 2314; baseline -0.002 -28"><span class='ocrx_word' id='word_1_2' title='bbox 1462 2231 1749 2287; x_wconf 65' lang='lat' dir='ltr'><strong>Banomm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1783 2245 1942 2288; x_wconf 73' lang='lat' dir='ltr'>Arm)</span> <span class='ocrx_word' id='word_1_4' title='bbox 1980 2231 2395 2314; x_wconf 69' lang='lat' dir='ltr'>anumnos</span> <span class='ocrx_word' id='word_1_5' title='bbox 2431 2231 2505 2298; x_wconf 87' lang='lat' dir='ltr'>(J.</span> <span class='ocrx_word' id='word_1_6' title='bbox 2530 2231 2801 2294; x_wconf 67' lang='lat' dir='ltr'>Reman).</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1928 2355 2345 2370">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1928 2355 2345 2370">
+     <span class='ocr_line' id='line_1_3' title="bbox 1928 2355 2345 2370; baseline 0 -3"><span class='ocrx_word' id='word_1_7' title='bbox 1928 2355 2256 2370; x_wconf 45' lang='lat' dir='ltr'>„eb—ra-raw-mv</span> <span class='ocrx_word' id='word_1_8' title='bbox 2270 2355 2345 2370; x_wconf 46' lang='lat' dir='ltr'>‘N</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1595 2444 2668 2500">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1595 2444 2668 2500">
+     <span class='ocr_line' id='line_1_4' title="bbox 1595 2444 2668 2500; baseline -0.001 -8"><span class='ocrx_word' id='word_1_9' title='bbox 1595 2445 1745 2492; x_wconf 71' lang='lat' dir='ltr'>Trns</span> <span class='ocrx_word' id='word_1_10' title='bbox 1777 2445 2000 2493; x_wconf 59' lang='lat' dir='ltr'>Gon-avt</span> <span class='ocrx_word' id='word_1_11' title='bbox 2030 2444 2251 2500; x_wconf 69' lang='lat' dir='ltr'><strong>Sanun,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2286 2445 2668 2492; x_wconf 69' lang='lat' dir='ltr'><strong>Bnommums.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3805 1508 3816 2656">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3805 1508 3816 2656">
+     <span class='ocr_line' id='line_1_5' title="bbox 3805 1508 3816 2656; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 3805 1508 3816 2656; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
